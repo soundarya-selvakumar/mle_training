@@ -1,0 +1,27 @@
+Script started on 2020-11-29 21:02:13+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git branch testin
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git branch testin[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit vh[K[Kcheckout testing
+Already on 'testing'
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git p[K[K[K[K[Kpush s.txt[K[K[K[K[K[K[K[K[K[Kc[Kgit add s.txt
+fatal: pathspec 's.txt' did not match any files
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ ls
+[0m[01;32manimals.txt[0m  [01;32mforgot_animals.txt[0m  [01;32mgit_config[0m  [01;32munstage.txt[0m
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git  [Kadd git_config
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git commit -m "git config commit"
+[testing e1c8eed] git config commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 git_config
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git push
+fatal: The current branch testing has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin testing
+
+]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ git log --oneline --decorate --graph --all
+[?1h=* [33me1c8eed[m[33m ([m[1;36mHEAD -> [m[1;32mtesting[m[33m)[m git config commit[m
+* [33m4efe1ae[m[33m ([m[1;33mtag: v1.4-lw[m[33m, [m[1;33mtag: v1.2[m[33m, [m[1;32mtestin[m[33m, [m[1;32mmaster[m[33m)[m initial commit - amend[m
+* [33m396e372[m[33m ([m[1;31morigin/master[m[33m)[m initial commit[m
+[K[?1l>]0;tiger098@TIGER098: /mnt/d/assignment/my_project/mle_training[01;32mtiger098@TIGER098[00m:[01;34m/mnt/d/assignment/my_project/mle_training[00m$ exit
+exit
+
+Script done on 2020-11-29 21:08:12+05:30 [COMMAND_EXIT_CODE="0"]
