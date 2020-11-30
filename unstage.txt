@@ -1,0 +1,7 @@
+deer
+rabbit
+raccoon
+deer,rabbit,raccoon
+1,deer
+2,rabbit
+3,raccoon
